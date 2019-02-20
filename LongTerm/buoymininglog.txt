@@ -1,0 +1,217 @@
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(HualienUrl, HualienBuoyURL) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(HualienUrl, HualienBuoyURL) :
+  NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+4: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+4: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning message:
+In GetLongBuoyData(HualienUrl, HualienBuoyURL) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning message:
+In GetLongBuoyData(HualienUrl, HualienBuoyURL) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning message:
+In GetLongBuoyData(HualienUrl, HualienBuoyURL) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+4: In GetLongBuoyData(XiaoLiuQiuUrl, XiaoLiuQiuBuoy) :
+  NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(SuAoUrl, SuAoBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+2: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+3: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+4: In GetLongBuoyData(YilanUrl, YilanBuoy) : NAs introduced by coercion
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+No encoding supplied: defaulting to UTF-8.
+Argument 'which' was left unspecified. Choosing first table.
+Warning messages:
+1: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+2: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion
+3: In GetLongBuoyData(TaitungUrl, FugangBuoyURL) :
+  NAs introduced by coercion

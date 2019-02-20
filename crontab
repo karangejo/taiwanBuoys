@@ -1,0 +1,5 @@
+ 0 1 * * 0 cd /srv/shiny-server/LongTerm && /usr/bin/Rscript /srv/shiny-server/LongTerm/LongTermBuoyMining.R >> /srv/shiny-server/LongTerm/buoymininglog.txt 2>&1
+ */30 * * * * sleep 300;cd /srv/shiny-server/Display && /usr/bin/Rscript /srv/shiny-server/Display/saveBuoyData.R >> /srv/shiny-server/Display/savebuoyslog.txt 2>&1
+ */30 * * * * sleep 360; cd /srv/shiny-server/DisplayCh && /usr/bin/Rscript /srv/shiny-server/DisplayCh/saveBuoyDataCh.R >> /srv/shiny-server/DisplayCh/savebuoyslog.txt 2>&1
+ 0 0 * * * echo "" > /srv/shiny-server/Display/saveRdaTableslog.txt;echo "" > /srv/shiny-server/DisplayCh/saveRdaTableslog.txt; echo "" > /srv/shiny-server/DisplayCh/savebuoyslog.txt; echo "" > /srv/shiny-server/Display/savebuoyslog.txt
+
